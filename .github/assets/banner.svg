@@ -1,0 +1,96 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Grand Slam Offer — a seven-step Hormozi audit, run by Claude">
+  <defs>
+    <clipPath id="canvas-clip">
+      <rect x="0" y="0" width="1200" height="340" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#canvas-clip)">
+    <!-- paper base -->
+    <rect x="0" y="0" width="1200" height="340" fill="#EFEAE0"/>
+
+    <!-- faint ledger rules -->
+    <g stroke="#D9D0BC" stroke-width="1">
+      <line x1="0" y1="24" x2="1200" y2="24"/>
+      <line x1="0" y1="48" x2="1200" y2="48"/>
+      <line x1="0" y1="72" x2="1200" y2="72"/>
+      <line x1="0" y1="96" x2="1200" y2="96"/>
+      <line x1="0" y1="120" x2="1200" y2="120"/>
+      <line x1="0" y1="144" x2="1200" y2="144"/>
+      <line x1="0" y1="168" x2="1200" y2="168"/>
+      <line x1="0" y1="192" x2="1200" y2="192"/>
+      <line x1="0" y1="216" x2="1200" y2="216"/>
+      <line x1="0" y1="240" x2="1200" y2="240"/>
+      <line x1="0" y1="264" x2="1200" y2="264"/>
+      <line x1="0" y1="288" x2="1200" y2="288"/>
+      <line x1="0" y1="312" x2="1200" y2="312"/>
+    </g>
+
+    <!-- left margin rule, ledger-book style -->
+    <line x1="56" y1="0" x2="56" y2="340" stroke="#C7563F" stroke-width="1.5" opacity="0.35"/>
+
+    <!-- headline -->
+    <text x="86" y="128" font-family="'Zilla Slab','Roboto Slab',Georgia,serif" font-weight="700" font-size="66" fill="#18120D" letter-spacing="-1">Grand Slam Offer</text>
+    <text x="88" y="166" font-family="Georgia,'Zilla Slab',serif" font-style="italic" font-weight="400" font-size="23" fill="#5B5042">A seven-step Hormozi audit, run step by step by Claude</text>
+
+    <!-- rule under subtitle -->
+    <line x1="88" y1="188" x2="1140" y2="188" stroke="#18120D" stroke-width="1" opacity="0.25"/>
+
+    <!-- stamp badge -->
+    <g transform="translate(1040,78) rotate(-9)">
+      <circle cx="0" cy="0" r="58" fill="none" stroke="#A4302A" stroke-width="2.5" opacity="0.85"/>
+      <circle cx="0" cy="0" r="49" fill="none" stroke="#A4302A" stroke-width="1" opacity="0.6"/>
+      <text x="0" y="-9" text-anchor="middle" font-family="'IBM Plex Mono','Courier New',monospace" font-size="13" font-weight="700" fill="#A4302A" letter-spacing="1.5">7-STEP</text>
+      <text x="0" y="9" text-anchor="middle" font-family="'IBM Plex Mono','Courier New',monospace" font-size="13" font-weight="700" fill="#A4302A" letter-spacing="1.5">AUDIT</text>
+      <text x="0" y="27" text-anchor="middle" font-family="'IBM Plex Mono','Courier New',monospace" font-size="9" fill="#A4302A" letter-spacing="2" opacity="0.85">VERIFIED</text>
+    </g>
+
+    <!-- seven-column index strip -->
+    <g font-family="'IBM Plex Mono','Courier New',monospace">
+      <!-- column dividers -->
+      <g stroke="#18120D" stroke-width="1" opacity="0.18">
+        <line x1="88"  y1="212" x2="88"  y2="300"/>
+        <line x1="238" y1="212" x2="238" y2="300"/>
+        <line x1="388" y1="212" x2="388" y2="300"/>
+        <line x1="538" y1="212" x2="538" y2="300"/>
+        <line x1="688" y1="212" x2="688" y2="300"/>
+        <line x1="838" y1="212" x2="838" y2="300"/>
+        <line x1="988" y1="212" x2="988" y2="300"/>
+        <line x1="1140" y1="212" x2="1140" y2="300"/>
+      </g>
+      <!-- numbers -->
+      <g font-size="15" font-weight="700" fill="#A4302A">
+        <text x="104" y="232">01</text>
+        <text x="254" y="232">02</text>
+        <text x="404" y="232">03</text>
+        <text x="554" y="232">04</text>
+        <text x="704" y="232">05</text>
+        <text x="854" y="232">06</text>
+        <text x="1004" y="232">07</text>
+      </g>
+      <!-- labels -->
+      <g font-size="14.5" fill="#18120D" font-family="Georgia,'Zilla Slab',serif">
+        <text x="104" y="256">Offer</text>
+        <text x="254" y="256">Value</text>
+        <text x="404" y="256">Lead magnet</text>
+        <text x="554" y="256">Scarcity</text>
+        <text x="704" y="256">Copy</text>
+        <text x="854" y="256">Niche</text>
+        <text x="1004" y="256">Funnel</text>
+      </g>
+      <!-- sub-labels -->
+      <g font-size="10.5" fill="#5B5042">
+        <text x="104" y="274">architect</text>
+        <text x="254" y="274">equation</text>
+        <text x="404" y="274">creation</text>
+        <text x="554" y="274">+ urgency</text>
+        <text x="704" y="274">rewrite</text>
+        <text x="854" y="274">down</text>
+        <text x="1004" y="274">frictionless</text>
+      </g>
+    </g>
+
+    <!-- footer -->
+    <text x="88" y="325" font-family="'IBM Plex Mono','Courier New',monospace" font-size="12" fill="#5B5042" letter-spacing="0.5">/grand-slam-offer — a Claude skill, built on Alex Hormozi's $100M Offers</text>
+  </g>
+</svg>
